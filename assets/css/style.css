@@ -1,0 +1,42 @@
+body {
+
+    background-image: url(https://www.setaswall.com/wp-content/uploads/2018/01/Dark-Grey-Wallpaper-03-1920x1200.jpg)
+
+}
+
+#mainname {
+
+    background-color: cadetblue;
+    padding: 20px;
+    color: black;
+    width: 300px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Skranji', cursive;
+
+}
+
+h2 {
+
+    padding: 20px;
+    font-family: 'Skranji', cursive;
+    font-size: 25px;
+    background-color: cadetblue;
+    margin-top: 10px;
+    width:auto;
+    text-align: left;
+    text-decoration: underline;
+     
+}
+
+a:hover {
+
+    background-color: black;
+    font-size: 20px;
+}
+
+.nav-link {
+
+    font-family: 'Skranji', cursive;
+}
+
