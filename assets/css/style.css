@@ -30,7 +30,7 @@ h2 {
      
 }
 
-a:hover {
+.nav-item a:hover {
 
     background-color: black;
     font-size: 20px;
@@ -51,6 +51,45 @@ a:hover {
 .container {
 
     background-color: rgb(221, 216, 210);
+    
  
+}
+
+#pabt {
+
+    line-height: 30px;
+    font-size: 20px;
+}
+
+img {
+
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.btn {
+    
+    width: 160px;
+    align-items: center;
+    color: black;
+    font-family: 'Skranji', cursive;
+}
+
+.footer {
+
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+   
+}
+
+@media screen and (max-width: 780px) {
+
+    .thumbnail {
+        width: 70%;
+        
+    }
 }
 
