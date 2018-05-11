@@ -81,14 +81,31 @@ img {
     bottom: 0px;
     width: 100%;
     text-align: center;
-   
+    padding: 5px;
 }
 
 @media screen and (max-width: 780px) {
 
     .thumbnail {
-        width: 70%;
-        
+        width: 80%;
+         
     }
-}
 
+    #mainname {
+        width: 200px;
+        font-size: 15px;
+        padding: 10px;
+    }
+
+    #pabt {
+
+        line-height: 20px;
+        font-size: 15px;
+    }
+
+    h2 {
+        font-size: 15px;
+    }
+  
+    
+}
