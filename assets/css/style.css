@@ -1,8 +1,7 @@
 body {
 
     background-image: url(https://www.setaswall.com/wp-content/uploads/2018/01/Dark-Grey-Wallpaper-03-1920x1200.jpg);
-    
-    
+
 }
 
 #mainname {
@@ -85,10 +84,7 @@ img {
 
 @media screen and (max-width: 780px) {
 
-    .thumbnail {
-        width: 80%;
-         
-    }
+  
 
     #mainname {
         width: 200px;
@@ -105,6 +101,36 @@ img {
     h2 {
         font-size: 15px;
     }
-  
+
     
+.footer {
+
+   font-size: 13px;
+    padding: 5px;
+}
+}
+
+@media screen and (max-width: 500px) {
+
+    #mainname {
+
+        width: 150px;
+        font-size: 13px;
+        padding: 10px;
+    }
+
+    #pabt {
+
+        line-height: 15px;
+        font-size: 13px;
+    }
+
+    h2 {
+        font-size: 12px;
+    }
+
+        
+.footer {
+
+    font-size: 10px;
 }
