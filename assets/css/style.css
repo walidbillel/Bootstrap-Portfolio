@@ -1,11 +1,8 @@
 body {
-
     background-image: url(https://www.setaswall.com/wp-content/uploads/2018/01/Dark-Grey-Wallpaper-03-1920x1200.jpg);
-
 }
 
 #mainname {
-
     background-color:grey;
     padding: 20px;
     color: black;
@@ -14,11 +11,9 @@ body {
     font-size: 30px;
     font-family: 'Skranji', cursive;
     font-weight: bolder;
-
 }
 
 h2 {
-    
     font-weight: bold;
     padding: 20px;
     font-family: 'Skranji', cursive;
@@ -28,45 +23,32 @@ h2 {
     width:auto;
     text-align: center;
     text-decoration: underline;
-
-     
 }
 
 .nav-item a:hover {
-
     background-color: black;
-    font-size: 23px;
-    
+    font-size: 23px;  
 }
 
 .nav-link {
-
     font-family: 'Skranji', cursive;
 }
 
-
-
 .container {
-
-    background-color: rgb(32, 165, 154);
-    
- 
+    background-color: rgb(32, 165, 154); 
 }
 
 #pabt {
-
     line-height: 30px;
     font-size: 20px;
 }
 
 img {
-
     margin-right: 10px;
     margin-top: 10px;
 }
 
 .btn {
-    
     width: 160px;
     align-items: center;
     color: black;
@@ -74,7 +56,6 @@ img {
 }
 
 .footer {
-
     position: fixed;
     bottom: 0px;
     width: 100%;
@@ -83,8 +64,6 @@ img {
 }
 
 @media screen and (max-width: 780px) {
-
-  
 
     #mainname {
         width: 200px;
@@ -104,7 +83,6 @@ img {
 
     
 .footer {
-
    font-size: 13px;
     padding: 5px;
 }
@@ -113,14 +91,12 @@ img {
 @media screen and (max-width: 500px) {
 
     #mainname {
-
         width: 150px;
         font-size: 13px;
         padding: 10px;
     }
 
     #pabt {
-
         line-height: 15px;
         font-size: 13px;
     }
@@ -131,6 +107,5 @@ img {
 
         
 .footer {
-
     font-size: 10px;
 }
