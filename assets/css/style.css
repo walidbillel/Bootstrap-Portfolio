@@ -3,9 +3,9 @@ body {
 }
 
 #mainname {
-    background-color:grey;
+    background-color:rgb(99, 93, 87);
     padding: 20px;
-    color: black;
+    color:black;
     width: 300px;
     text-align: center;
     font-size: 30px;
@@ -18,7 +18,9 @@ h2 {
     padding: 20px;
     font-family: 'Skranji', cursive;
     font-size: 25px;
-    background-color: grey;
+    opacity: 0.7;
+    color: black;
+    background-color: rgb(53, 105, 5);
     margin-top: 10px;
     width:auto;
     text-align: center;
@@ -26,7 +28,8 @@ h2 {
 }
 
 .nav-item a:hover {
-    background-color: black;
+    background-color: rgb(99, 93, 87) ;
+    
     font-size: 23px;  
 }
 
@@ -35,7 +38,8 @@ h2 {
 }
 
 .container {
-    background-color: rgb(32, 165, 154); 
+    background-color:rgb(170, 90, 15); 
+    opacity: 0.8;
 }
 
 #pabt {
@@ -53,6 +57,11 @@ img {
     align-items: center;
     color: black;
     font-family: 'Skranji', cursive;
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
 }
 
 .footer {
