@@ -1,10 +1,9 @@
- body {
+body {
     background-color:rgb(80, 59, 21);
-    /* background-image: url(https://wallpaperhd.wiki/wp-content/uploads/hd-backgrounds-websites-hd-pics-photos-beautiful-attractive-web-water-drops-nature-hd-quality-desktop-background-wallpaper.jpg); */
 } 
 
 #mainname {
-    /* background-color: rgb(127, 137, 150); */
+
     padding: 20px;
     color: white;
     width: 300px;
@@ -42,7 +41,7 @@ p {
 }
 
 .nav-item a:hover {
-    /* background-color: rgb(138, 17, 17); */
+
     color:white;
     font-size: 20px;
     
@@ -53,7 +52,7 @@ p {
 }
 
 .container {
-    /* background-color:rgb(64,64,64) ;  */
+    
     background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4zx2oCU_lijl3z600/subtle-light-leak-on-black-background-moving-red-lens-flare-overlay-on-top-of-footage-with-screen-opacity-for-vintage-super-effect_bxts-er0_thumbnail-full01.png);
     border-radius: 20px;
 }
@@ -147,7 +146,7 @@ img {
     }
 
         
-.footer {
-    font-size: 10px;
-}
+    .footer {
+        font-size: 10px;
+    }
 }
