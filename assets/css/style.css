@@ -1,18 +1,22 @@
-body {
-    /* background-color: #EDF5E1; */
-    background-image: url(https://yldist.com/ms/wp-content/uploads/sites/1/nggallery/website-backgrounds/bg12.jpg);
-}
+ body {
+    background-color:rgb(80, 59, 21);
+    /* background-image: url(https://wallpaperhd.wiki/wp-content/uploads/hd-backgrounds-websites-hd-pics-photos-beautiful-attractive-web-water-drops-nature-hd-quality-desktop-background-wallpaper.jpg); */
+} 
 
 #mainname {
-    background-color:#05386B;
+    /* background-color: rgb(127, 137, 150); */
     padding: 20px;
-    color:	white;
+    color: white;
     width: 300px;
     text-align: center;
     font-size: 30px;
     font-family: 'Skranji', cursive;
     font-weight: bolder;
-    border-radius: 20px;
+   
+}
+
+nav {
+    background-image: url(https://wallpaperhd.wiki/wp-content/uploads/hd-backgrounds-websites-hd-pics-photos-beautiful-attractive-web-water-drops-nature-hd-quality-desktop-background-wallpaper.jpg);
 }
 
 h2 {
@@ -20,19 +24,28 @@ h2 {
     padding: 20px;
     font-family: 'Skranji', cursive;
     font-size: 25px;
-    color: white;
-    background-color:  #05386B;
+    color:white;
+    background-color: rgb(62, 100, 182);
     margin-top: 10px;
     width:auto;
     text-align: center;
     text-decoration: underline;
-    border-radius: 20px;
+    border-radius: 15px 50px;
+    opacity: 0.8;
+}
+
+label {
+    color: white;
+}
+
+p {
+    color: white;
 }
 
 .nav-item a:hover {
-    background-color: green ;
+    /* background-color: rgb(138, 17, 17); */
     color:white;
-    border-radius: 20px;
+    font-size: 20px;
     
 }
 
@@ -41,7 +54,8 @@ h2 {
 }
 
 .container {
-    background-color:#5CDB95 ; 
+    /* background-color:rgb(64,64,64) ;  */
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4zx2oCU_lijl3z600/subtle-light-leak-on-black-background-moving-red-lens-flare-overlay-on-top-of-footage-with-screen-opacity-for-vintage-super-effect_bxts-er0_thumbnail-full01.png);
     border-radius: 20px;
 }
 
@@ -59,9 +73,15 @@ img {
 .btn {
     width: 160px;
     align-items: center;
-    color: #05386B;
+    color: black;
     font-family: 'Skranji', cursive;
+    background-color:rgb(49, 170, 103);
 }
+
+.btn:hover {
+    background-color: rgb(62, 100, 182);
+}
+
 
 
 .footer {
@@ -70,6 +90,7 @@ img {
     width: 100%;
     text-align: center;
     padding: 5px;
+    background-image: url(https://wallpaperhd.wiki/wp-content/uploads/hd-backgrounds-websites-hd-pics-photos-beautiful-attractive-web-water-drops-nature-hd-quality-desktop-background-wallpaper.jpg);
 }
 
 @media screen and (max-width: 780px) {
