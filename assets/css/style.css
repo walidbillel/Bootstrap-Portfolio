@@ -1,5 +1,6 @@
 body {
-    background-color:rgb(80, 59, 21);
+    
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/C2SkUEF/mg0018-subtle-grey-moving-texture-v2-animated-background_nkaig-ihg__F0000.png);
 } 
 
 #mainname {
@@ -14,7 +15,7 @@ body {
 }
 
 nav {
-    background-image: url(https://wallpaperhd.wiki/wp-content/uploads/hd-backgrounds-websites-hd-pics-photos-beautiful-attractive-web-water-drops-nature-hd-quality-desktop-background-wallpaper.jpg);
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4zx2oCU_lijl3z600/subtle-light-leak-on-black-background-moving-red-lens-flare-overlay-on-top-of-footage-with-screen-opacity-for-vintage-super-effect_bxts-er0_thumbnail-full01.png);
 }
 
 h2 {
@@ -23,13 +24,12 @@ h2 {
     font-family: 'Skranji', cursive;
     font-size: 25px;
     color:white;
-    background-color: rgb(62, 100, 182);
     margin-top: 10px;
     width:auto;
     text-align: center;
     text-decoration: underline;
     border-radius: 15px 50px;
-    opacity: 0.8;
+    
 }
 
 label {
@@ -53,8 +53,8 @@ p {
 
 .container {
     
-    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4zx2oCU_lijl3z600/subtle-light-leak-on-black-background-moving-red-lens-flare-overlay-on-top-of-footage-with-screen-opacity-for-vintage-super-effect_bxts-er0_thumbnail-full01.png);
-    border-radius: 20px;
+    background-image: url(https://wallpaperhd.wiki/wp-content/uploads/hd-backgrounds-websites-hd-pics-photos-beautiful-attractive-web-water-drops-nature-hd-quality-desktop-background-wallpaper.jpg);
+    border-radius: 50px;
 }
 
 #pabt {
@@ -88,7 +88,7 @@ img {
     width: 100%;
     text-align: center;
     padding: 5px;
-    background-image: url(https://wallpaperhd.wiki/wp-content/uploads/hd-backgrounds-websites-hd-pics-photos-beautiful-attractive-web-water-drops-nature-hd-quality-desktop-background-wallpaper.jpg);
+    background-image: url( https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4zx2oCU_lijl3z600/subtle-light-leak-on-black-background-moving-red-lens-flare-overlay-on-top-of-footage-with-screen-opacity-for-vintage-super-effect_bxts-er0_thumbnail-full01.png);
 }
 
 @media screen and (max-width: 780px) {
