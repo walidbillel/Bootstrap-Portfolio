@@ -1,6 +1,7 @@
 body {
     
     background-image: url(https://code.berlin/content/uploads/Computer-Science-Software-Engineering-1200x450.jpg);
+    
 } 
 
 #mainname {
@@ -41,8 +42,7 @@ label {
 p {
     color: white;
     font-family: 'Orbitron', sans-serif ;
-   
-    background-color: black;
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/R0tz877/red-flare-flicker-loop_x1iv6uep__F0003.png);
     padding: 20px;
     margin: 10px;
     line-height: 30px;
@@ -95,7 +95,7 @@ img {
     background-image: url( https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4zx2oCU_lijl3z600/subtle-light-leak-on-black-background-moving-red-lens-flare-overlay-on-top-of-footage-with-screen-opacity-for-vintage-super-effect_bxts-er0_thumbnail-full01.png);
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 880px) {
 
     #mainname {
         width: 200px;
@@ -119,8 +119,8 @@ img {
         font-size: 20px;
     }
 
-    btn {
-        margin-left: 20px;
+    .btn-sm {
+        width: 120px;
     }
 
     
@@ -150,6 +150,10 @@ img {
         font-size: 12px;
     }
 
+    
+    .btn-sm {
+        width: 150px;
+    }
         
     .footer {
         font-size: 10px;
