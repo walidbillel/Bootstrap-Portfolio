@@ -1,6 +1,6 @@
 body {
     
-    background-image: url(https://code.berlin/content/uploads/Computer-Science-Software-Engineering-1200x450.jpg);
+    background-image: url(http://backgroundcheckall.com/wp-content/uploads/2017/12/portfolio-background-images-5.jpg);
     
 } 
 
@@ -10,7 +10,7 @@ body {
     color: white;
     width: 300px;
     text-align: center;
-    font-size: 45px;
+    font-size: 35px;
     font-family: 'Megrim', cursive;
     font-weight: bolder;
 }
@@ -43,7 +43,8 @@ p {
     color: white;
     font-family: 'Orbitron', sans-serif ;
     background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/R0tz877/red-flare-flicker-loop_x1iv6uep__F0003.png);
-    padding: 20px;
+    padding: 25px;
+    border-radius: 25px;
     margin: 10px;
     line-height: 30px;
     letter-spacing: 0.5px;
